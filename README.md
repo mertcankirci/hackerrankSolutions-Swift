@@ -1,5 +1,5 @@
 # Hackerrank Solutions Swift 
 
-This repo is for publishing my way of solutions to several hackerrank questions. 
+A collection of my solutions and approaches to various HackerRank coding challenges.
 
 My account: @mertkirci02
